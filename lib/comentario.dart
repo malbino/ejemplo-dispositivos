@@ -9,7 +9,7 @@ class Comentario extends StatelessWidget {
       ),
       child: Icon(
         Icons.star,
-        color: Colors.amber,
+        color: Colors.amberAccent,
       ),
     );
 
